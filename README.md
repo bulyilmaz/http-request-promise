@@ -1,4 +1,4 @@
-### HTTP Request Class with Vanilla JavaScript (Promise) & Webpack
+### HTTP Request Class with Vanilla JavaScript (Ajax, Promise) & Webpack
 
 `cd /path/to/http-request-promise`
 
