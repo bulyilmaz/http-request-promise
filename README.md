@@ -6,4 +6,8 @@
 
 `npm run js-compile`
 
+`npm run js-dev-compile`
+
+`npm run watch`
+
 `npm run dev-server`
