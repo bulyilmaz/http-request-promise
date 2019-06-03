@@ -1,6 +1,4 @@
 {
-  "name": "http-request-promise",
-  "description": "HTTP Request Class with Vanilla JavaScript (Promise) & Webpack",
   "author": "Bülent YILMAZ",
   "scripts": {
     "js-dev-compile": "webpack --mode development",
